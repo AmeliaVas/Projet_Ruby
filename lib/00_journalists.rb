@@ -1,39 +1,227 @@
 #Tableau des pseudos twitter des journalistes sélectionnés
-journalists = ["@jcunniet","@PaulLampon","@Aziliz31","@ssoumier","@marionsouzeau","@gaellombart","@bendarag","@AurelieLebelle","@julienduffe","@thomaspoupeau","@LilyRossignol","@ClairGuedon","@stephanieauguy","@claw_prolongeau","@_JulieMenard","@LColcomb","@Zlauwereys","@MeLonguet","@DorotheeLN","@NolwennCosson","@ADaboval","@Remibaldy","@bderveaux","@amandechap","@ELODIESOULIE","@nbongarcon","@HeloAb","@Panamorama","@gregplou","@BenoitBerthe","@LauraBruneau89","@Anthony_Lieures","@Sharonwaj","@mcsonkin","@pverduzier","@emiliel3","@Julien_MARION","@SophiFay","@bdelombre","@annalecerf","@AdriaBudry","@DejNikolic","@iJaffre","@CyrusleVirus","@GPardigon","@e_vallerey","@IsabelleSouquet","@AudeDavidRossi","@Yoann_Pa","@CeliaPenavaire","@perraultvincent","@cboulate","@JustineWeyl","@Paulinejacot","@juliechab","@aslechevallier","@phnou","@Seb_Pommier","@Alex_Bensaid","@GuillaumeGaven","@annelaurechouin","@Oliviader","@guerricp","@JMMarchaut","@cyceron","@gregory_raymond","@vhunsinger","@l_peillon","@fannyguinochet","@EAssayag","@KibweAdom","@YvonHerry","@JohanGarciajg","@saidlabidi","@lauranneprov","@LeaDavy","@francois_remy","@CGuicheteau","@FloMaillet","@m_perroud","@oBrunet_TSMF","@MoonVdc","@jc2taille","@NellyMoussu","@VirginK","@b_misa","@FabriceCouste","@barbara_prose","@lelia2m","@brunoaskenazi","@laurenechamp","@ysisbox","@juliengagliardi","@PierreLel","@kdeniau","@_TerraInc","@DominicArpin","@antoinfonteneau","@nanotousch","@jb_roch","@YaniKhezzar","@Anne_Bechet","@NCapart","@SamyBenNaceur","@Joumany","@Julietteraynal","@TGiraudet","@SaraTanit","@HappeFrederic","@antoinellorca","@michelpicot","@Sev_Ryne","@bobdobolino","@murdever","@YGrandmontagne","@Mnyo","@EdKOSCIANSKI","@tnoisette","@jankari","@delbello_rom","@rflechaux","@NadiaSorelli","@IT_Digital","@abarbaux","@PhilippeLeroy","@schaptal","@marionspee","@lisavignoli","@ChloeAeberhardt","@MartineJacot","@JuliaPascualita","@curieusedetout","@sgraveleau","@bif_o","@ElisaPineau","@zinebdryef","@apiquard","@pierrehaski","@StephanieDelmas","@Blandine_Garot","@vergara_i","@evan_lebastard","@SophieVclt","@OlivierLevrault","@alicedorgeval","@LouiseMalnoy","@alix_fx","@pierre_baudis","@LucMagoutier","@AgatheMuller","@SGianninelli","@PaulineBoyer33","@NaomiHalll","@romaindlx","@marionbr","@Burtschy","@JacobEtienne","@as_lizzani","@marie_simon","@LaureDaussy","@FabriceAmedeo","@LoubnaChlaikhy","@PlummerWilliam","@OlivierMarin1","@alaurefremont","@mwesfreid","@ChBaDe","@pmathon","@theobaldmarie","@Lnpagesy","@marclandre","@paoliniesther","@Feertchak","@JBLitzler","@GuillaumeErrard","@quentinperinel","@TristanQM","@mlbo","@constancejamet","@LoraTerrazas","@emiliegeffray","@Mathilde_Sd","@CaroPiquet","@DCanivez","@TIM_7375","@blandinelc","@ivanrioufol","@arthurberdah","@SarahLecoeuvre","@guillaume_gui","@DamienMercereau","@W_Chloe","@Assma_MD","@EugenieBastie","@HiTech_lexpress","@bcondominas","@Laurie_Z_","@jeanfrancgerard","@MathieuPagura","@BGUYF","@AlainPiffaretti","@AudreyKucinskas","@julienhory","@Pierrefalga","@TiphThuillier","@cdaniez","@LigerBaptiste","@D_Peras","@julie_dlb","@Fatiha_Temmouri","@julian2lamancha","@GaetaneDeljurie","@JulianMattei","@M_Vicuna","@DeBruynOlivier","@Nehed_Jendoubi","@antoine_grenapi","@ColonnaGen","@VictoriaGairin","@Clement_Lacombe","@TVigoureux","@MargauxObriot","@solinedelos","@RocheSabine","@dangerkens","@EdouardDutour","@MDondeyne","@DupuisNathalie1","@bouscarel","@Mathieu2jean","@Sophie_T_J","@laurentcalixte","@patrockwilliams","@PascaleKremer","@AlexJaquin","@LauraIsaaz","@cath_robin","@Del_Gautherin","@Isaduriez","@lucietuile","@AugeyBastien","@mcastagnet","@AminaKalache","@mvaudano","@CParrot","@ombelinetips","@_JoinLion","@BarbolosiRose","@ToiBruno1","@FloraClodic","@xjbdx","@AlexiaEy","@Emjy_STARK","@elcoco01","@rabilebon","@pflovens_","@FabriceFrossard","@MorganeSERRES","@MarjolaineKoch","@edgarsnow","@SRNLF","@CChassigneux","@KerinecMoran","@NassiraELM","@NewsRicard","@Sandreene","@Emilezrt","@Pierre_Do","@Micode","@CColumelli","@DavidAbiker","@ClementBergantz","@benjaminrabier","@celinekallmann","@edwyplenel","@C_Barbier","@JJBourdin_RMC","@LaurenceFerrari","@aslapix","@IsaMillet","@MaximeSwitek","@tomjoubert","@jszanchi","@roqueeva","@XavierBiseul","@florencesantrot","@AntoineCrochet","@freeman59","@MaudeML","@philippe_gulpi","@mathieum76","@kiouari","@imanemoustakir","@BenedicteMallet","@Emilie_Brouze","@antoinebarret","@_nicolasbocquet","@remibuhagiar","@CourretB","@AymericRobert","@miraelmartins","@pmaniere","@jesuisraphk","@David_Ingram","@pcelerier","@technomedia","@Geraldinedauver","@ThierryLabro","@Newsdusud","@nrauline","@gbregeras","@SCouasnonBFM","@actualites_nrv","@dimitrimoulins","@oli_aura","@FabieChiche","@Vincent_Raimblt","@ChristophGreuet","@PAlbuchay","@MarrauddesGrot","@vtalmon","@cedric","@olivierfrigara","@Julien_Jay","@LydiaBerroyer","@Shuua","@datisdaz","@Steuph","@ameliecharnay","@Bruno_LesNums","@LelloucheNico","@CciliaDiQuinzio","@Elodie_C","@SylvRolland","@Kocobe","@FL_Debes","@jdupontcalbo","@GarciaVictor_","@NicoRichaud","@RHoueix","@simottel","@DamienLicata","@annabelle_L","@Lea_Lejeune","@axel_deb","@marin_eben","@ptiberry","@MatthieuDelach","@sandrinecassini","@benjaminferran","@ppgarcia75","@NotPatrick","@ivalerio","@FabienneSchmitt","@alexgoude","@JeromeColombain","@manhack","@Capucine_Cousin","@Fsorel","@oliviertesquet","@marjoriepaillon","@ginades","@PierreTran","@DelphineCuny","@reesmarc","@lauratenoudji","@ldupin","@carolinedescham","@Lucile_Quillet","@cgabizon","@Allocab","@epenser","@JAGventeprivee","@frwrds","@Laure__Bourdon","@Xavier75","@maximeverner","@s_jourdain","@LoriHelloc"]
+def journalists
+	journalists = ["@jcunniet","@PaulLampon","@Aziliz31","@ssoumier","@marionsouzeau","@gaellombart","@bendarag","@AurelieLebelle","@julienduffe","@thomaspoupeau","@LilyRossignol","@ClairGuedon","@stephanieauguy","@claw_prolongeau","@_JulieMenard","@LColcomb","@Zlauwereys","@MeLonguet","@DorotheeLN","@NolwennCosson","@ADaboval","@Remibaldy","@bderveaux","@amandechap","@ELODIESOULIE","@nbongarcon","@HeloAb","@Panamorama","@gregplou","@BenoitBerthe","@LauraBruneau89","@Anthony_Lieures","@Sharonwaj","@mcsonkin","@pverduzier","@emiliel3","@Julien_MARION","@SophiFay","@bdelombre","@annalecerf","@AdriaBudry","@DejNikolic","@iJaffre","@CyrusleVirus","@GPardigon","@e_vallerey","@IsabelleSouquet","@AudeDavidRossi","@Yoann_Pa","@CeliaPenavaire","@perraultvincent","@cboulate","@JustineWeyl","@Paulinejacot","@juliechab","@aslechevallier","@phnou","@Seb_Pommier","@Alex_Bensaid","@GuillaumeGaven","@annelaurechouin","@Oliviader","@guerricp","@JMMarchaut","@cyceron","@gregory_raymond","@vhunsinger","@l_peillon","@fannyguinochet","@EAssayag","@KibweAdom","@YvonHerry","@JohanGarciajg","@saidlabidi","@lauranneprov","@LeaDavy","@francois_remy","@CGuicheteau","@FloMaillet","@m_perroud","@oBrunet_TSMF","@MoonVdc","@jc2taille","@NellyMoussu","@VirginK","@b_misa","@FabriceCouste","@barbara_prose","@lelia2m","@brunoaskenazi","@laurenechamp","@ysisbox","@juliengagliardi","@PierreLel","@kdeniau","@_TerraInc","@DominicArpin","@antoinfonteneau","@nanotousch","@jb_roch","@YaniKhezzar","@Anne_Bechet","@NCapart","@SamyBenNaceur","@Joumany","@Julietteraynal","@TGiraudet","@SaraTanit","@HappeFrederic","@antoinellorca","@michelpicot","@Sev_Ryne","@bobdobolino","@murdever","@YGrandmontagne","@Mnyo","@EdKOSCIANSKI","@tnoisette","@jankari","@delbello_rom","@rflechaux","@NadiaSorelli","@IT_Digital","@abarbaux","@PhilippeLeroy","@schaptal","@marionspee","@lisavignoli","@ChloeAeberhardt","@MartineJacot","@JuliaPascualita","@curieusedetout","@sgraveleau","@bif_o","@ElisaPineau","@zinebdryef","@apiquard","@pierrehaski","@StephanieDelmas","@Blandine_Garot","@vergara_i","@evan_lebastard","@SophieVclt","@OlivierLevrault","@alicedorgeval","@LouiseMalnoy","@alix_fx","@pierre_baudis","@LucMagoutier","@AgatheMuller","@SGianninelli","@PaulineBoyer33","@NaomiHalll","@romaindlx","@marionbr","@Burtschy","@JacobEtienne","@as_lizzani","@marie_simon","@LaureDaussy","@FabriceAmedeo","@LoubnaChlaikhy","@PlummerWilliam","@OlivierMarin1","@alaurefremont","@mwesfreid","@ChBaDe","@pmathon","@theobaldmarie","@Lnpagesy","@marclandre","@paoliniesther","@Feertchak","@JBLitzler","@GuillaumeErrard","@quentinperinel","@TristanQM","@mlbo","@constancejamet","@LoraTerrazas","@emiliegeffray","@Mathilde_Sd","@CaroPiquet","@DCanivez","@TIM_7375","@blandinelc","@ivanrioufol","@arthurberdah","@SarahLecoeuvre","@guillaume_gui","@DamienMercereau","@W_Chloe","@Assma_MD","@EugenieBastie","@HiTech_lexpress","@bcondominas","@Laurie_Z_","@jeanfrancgerard","@MathieuPagura","@BGUYF","@AlainPiffaretti","@AudreyKucinskas","@julienhory","@Pierrefalga","@TiphThuillier","@cdaniez","@LigerBaptiste","@D_Peras","@julie_dlb","@Fatiha_Temmouri","@julian2lamancha","@GaetaneDeljurie","@JulianMattei","@M_Vicuna","@DeBruynOlivier","@Nehed_Jendoubi","@antoine_grenapi","@ColonnaGen","@VictoriaGairin","@Clement_Lacombe","@TVigoureux","@MargauxObriot","@solinedelos","@RocheSabine","@dangerkens","@EdouardDutour","@MDondeyne","@DupuisNathalie1","@bouscarel","@Mathieu2jean","@Sophie_T_J","@laurentcalixte","@patrockwilliams","@PascaleKremer","@AlexJaquin","@LauraIsaaz","@cath_robin","@Del_Gautherin","@Isaduriez","@lucietuile","@AugeyBastien","@mcastagnet","@AminaKalache","@mvaudano","@CParrot","@ombelinetips","@_JoinLion","@BarbolosiRose","@ToiBruno1","@FloraClodic","@xjbdx","@AlexiaEy","@Emjy_STARK","@elcoco01","@rabilebon","@pflovens_","@FabriceFrossard","@MorganeSERRES","@MarjolaineKoch","@edgarsnow","@SRNLF","@CChassigneux","@KerinecMoran","@NassiraELM","@NewsRicard","@Sandreene","@Emilezrt","@Pierre_Do","@Micode","@CColumelli","@DavidAbiker","@ClementBergantz","@benjaminrabier","@celinekallmann","@edwyplenel","@C_Barbier","@JJBourdin_RMC","@LaurenceFerrari","@aslapix","@IsaMillet","@MaximeSwitek","@tomjoubert","@jszanchi","@roqueeva","@XavierBiseul","@florencesantrot","@AntoineCrochet","@freeman59","@MaudeML","@philippe_gulpi","@mathieum76","@kiouari","@imanemoustakir","@BenedicteMallet","@Emilie_Brouze","@antoinebarret","@_nicolasbocquet","@remibuhagiar","@CourretB","@AymericRobert","@miraelmartins","@pmaniere","@jesuisraphk","@David_Ingram","@pcelerier","@technomedia","@Geraldinedauver","@ThierryLabro","@Newsdusud","@nrauline","@gbregeras","@SCouasnonBFM","@actualites_nrv","@dimitrimoulins","@oli_aura","@FabieChiche","@Vincent_Raimblt","@ChristophGreuet","@PAlbuchay","@MarrauddesGrot","@vtalmon","@cedric","@olivierfrigara","@Julien_Jay","@LydiaBerroyer","@Shuua","@datisdaz","@Steuph","@ameliecharnay","@Bruno_LesNums","@LelloucheNico","@CciliaDiQuinzio","@Elodie_C","@SylvRolland","@Kocobe","@FL_Debes","@jdupontcalbo","@GarciaVictor_","@NicoRichaud","@RHoueix","@simottel","@DamienLicata","@annabelle_L","@Lea_Lejeune","@axel_deb","@marin_eben","@ptiberry","@MatthieuDelach","@sandrinecassini","@benjaminferran","@ppgarcia75","@NotPatrick","@ivalerio","@FabienneSchmitt","@alexgoude","@JeromeColombain","@manhack","@Capucine_Cousin","@Fsorel","@oliviertesquet","@marjoriepaillon","@ginades","@PierreTran","@DelphineCuny","@reesmarc","@lauratenoudji","@ldupin","@carolinedescham","@Lucile_Quillet","@cgabizon","@Allocab","@epenser","@JAGventeprivee","@frwrds","@Laure__Bourdon","@Xavier75","@maximeverner","@s_jourdain","@LoriHelloc"]
+end
 
-#Nombre de journalistes
-puts "Nous avons répertorié #{journalists.length} journalistes."
+#Nombre de journalistes répertoriés
+def repertoire
+	puts "Nous avons répertorié #{journalists.length} journalistes."
+	puts
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		nombre
+	elsif choix == "liste"
+		action
+	else
+		puts "Erreur"
+		repertoire
+	end
+end
 
 #Nombre de handles contenant un nombre
-puts "Nous avons compté #{journalists.select{ |n| n[/\d+/] }.size} handles contenant un nombre."
+def nombre	
+	puts "Nous avons compté #{journalists.select{ |n| n[/\d+/] }.size} handles contenant un nombre."
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		aude
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		repertoire
+	else
+		puts "Erreur"
+		nombre
+	end
+end
 
 #Nombre de handles contenant les 4 lettres du prénom "Aude"
-puts "Nous avons compté #{journalists.select{ |l| l[/[Aa]ude/] }.size} handles contenant 'aude'."
+def aude
+	puts "Nous avons compté #{journalists.select{ |l| l[/[Aa]ude/] }.size} handles contenant 'aude'."
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		majuscule
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		nombre
+	else
+		puts "Erreur"
+		aude
+	end
+end
 
 #Nombre de handles commençant par une majuscule
-puts "Nous avons compté #{journalists.select{ |m| m[/^@\p{Upper}/]}.size} handles commençant par une majuscule."
+def majusculedeb
+	puts "Nous avons compté #{journalists.select{ |m| m[/^@\p{Upper}/]}.size} handles commençant par une majuscule."
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		majuscule
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		aude
+	else
+		puts "Erreur"
+		majusculedeb
+	end
+end
 
 #Nombre de handles qui contiennent au moins une majuscule
-puts "Nous avons compté #{journalists.select{ |o| o[/\p{Upper}/]}.size} handles contenant au moins une majuscule."
+def majuscule
+	puts "Nous avons compté #{journalists.select{ |o| o[/\p{Upper}/]}.size} handles contenant au moins une majuscule."
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		underscores
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		majusculedeb
+	else
+		puts "Erreur"
+		majuscule
+	end
+end
 
 #Nombre de underscores dans tous les pseudos confondus
-underscores = journalists.to_s
-puts "Nous avons compté #{underscores.count("_")} underscores."
+def underscores
+	underscores = journalists.to_s
+	puts "Nous avons compté #{underscores.count("_")} underscores."
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		alpha
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		majuscule
+	else
+		puts "Erreur"
+		underscores
+	end
+end
 
-#Trier par ordre alphabétique
-jalpha = journalists.sort
-puts "Voici notre répertoire classé par ordre alphabétique : #{jalpha}"
+#Tri par ordre alphabétique
+def alpha
+	jalpha = journalists.sort
+	puts "Voici notre répertoire classé par ordre alphabétique : #{jalpha}"
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		courts
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		underscores
+	else
+		puts "Erreur"
+		alpha
+	end
+end
 
 #50 handles les plus courts
-puts "Et voici les 50 handles les plus courts : #{journalists.min(50){|a,b| a.length <=> b.length}}"
+def courts
+	puts "Et voici les 50 handles les plus courts : #{journalists.min(50){|a,b| a.length <=> b.length}}"
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour passer à l'analyse suivante, entrez '>'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == ">"
+		epenser
+	elsif choix == "liste"
+		action
+	elsif choix == "<"
+		alpha
+	else
+		puts "Erreur"
+		courts
+	end
+end
 
 #Position de @epenser dans l'array
-puts "Le numéro d'index du handle @epenser est : #{journalists.index("@epenser")}."
+def epenser
+	puts "Le numéro d'index du handle @epenser est : #{journalists.index("@epenser")}."
+	puts
+	puts "Pour revoir l'analyse précédente, entrez '<'"
+	puts "Pour choisir une autre analyse, entrez 'liste'"
+	puts choix = gets.chomp
+	if choix == "liste"
+		action
+	elsif choix == "<"
+		courts
+	else
+		puts "Erreur"
+		epenser
+	end
+end
 
+def accueil
+	puts "Bienvenue sur le Projet BigData !"
+	action
+end
 
+def action
+	puts "Pour naviguer dans les différentes analyses, choisis un numéro :"
+	puts "1 - Nombre de journalistes répertoriés"
+	puts "2 - Nombre de handles contenant un nombre"
+	puts "3 - Nombre de handles contenant les 4 lettres du prénom 'Aude'"
+	puts "4 - Nombre de handles commençant par une majuscule"
+	puts "5 - Nombre de handles contenant au moins une majuscule"
+	puts "6 - Nombre de underscores dans tous les pseudos confondus"
+	puts "7 - Tri par ordre alphabétique"
+	puts "8 - 50 handles les plus courts"
+	puts "9 - Position de @epenser dans l'array"
+	puts choix = gets.chomp.to_i
 
+	if choix == 1
+		repertoire
+	elsif choix == 2
+		nombre
+	elsif choix == 3
+		aude
+	elsif choix == 4
+		majusculedeb
+	elsif choix == 5
+		majuscule
+	elsif choix == 6
+		underscores
+	elsif choix == 7
+		alpha
+	elsif choix == 8
+		courts
+	elsif choix == 9
+		epenser
+	else
+		puts "Erreur"
+		action
+	end
+end
 
-
+accueil
 
 
 
