@@ -8,7 +8,7 @@ puts "Nous avons répertorié #{journalists.length} journalistes."
 puts "Nous avons compté #{journalists.select{ |n| n[/\d+/] }.size} handles contenant un nombre."
 
 #Nombre de handles contenant les 4 lettres du prénom "Aude"
-puts "Nous avons compté #{journalists.select{ |l| l[/aude/] }.size} handles contenant 'aude'."
+puts "Nous avons compté #{journalists.select{ |l| l[/[Aa]ude/] }.size} handles contenant 'aude'."
 
 #Nombre de handles commençant par une majuscule
 puts "Nous avons compté #{journalists.select{ |m| m[/^@\p{Upper}/]}.size} handles commençant par une majuscule."
