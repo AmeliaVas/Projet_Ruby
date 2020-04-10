@@ -13,7 +13,9 @@ $my_hash = Hash[devise.zip(prix.map)]
 puts "La crypto qui a la plus grande valeur est #{$my_hash.max_by{|prix,value|value.to_f}}."
 
 #La crypto qui a la plus petite valeur
-puts "La crypto qui a la plus petite valeur est #{$my_hash.min_by{|prix,value|value.to_f}}."
+min = $my_hash.values.min
+puts min
+puts "Les cryptos qui ont la plus petite valeur sont #{$my_hash.select{|prix,value|value == min}}."
 
 #Devises contenant "coin"
 coin = $my_hash.select{ |c| c[/[Cc][Oo][Ii][Nn]/]}
