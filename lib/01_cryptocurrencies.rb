@@ -14,7 +14,6 @@ puts "La crypto qui a la plus grande valeur est #{$my_hash.max_by{|prix,value|va
 
 #La crypto qui a la plus petite valeur
 min = $my_hash.values.min
-puts min
 puts "Les cryptos qui ont la plus petite valeur sont #{$my_hash.select{|prix,value|value == min}}."
 
 #Devises contenant "coin"
