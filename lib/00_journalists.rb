@@ -123,7 +123,7 @@ end
 
 #Tri par ordre alphabétique
 def alpha
-	jalpha = journalists.sort
+	jalpha = journalists.sort_by {|x| x.downcase}
 	puts "Voici notre répertoire classé par ordre alphabétique : #{jalpha}"
 	puts
 	puts "Pour revoir l'analyse précédente, entrez '<'"
